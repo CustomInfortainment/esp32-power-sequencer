@@ -1,0 +1,1849 @@
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00 0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 data:00 12 00  0X140
+
+id:0X0X140 dlc:3 dataid:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:b 
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:b 
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 dataid:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:ª
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlc:3 data:00 12 00 Lj
+id:0X0X140 dlid:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 00 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:40 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 08 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 #Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:40 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 08 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:£ 
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:40 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 $Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:00 0A 08 %Lj
+id:0X0X140 dlc:3 data:00 0A 08 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:40 0A 08 %Lj
+id:0X0X140 dlc:3 data:00 0A 08 %Lj
+id:0X0X140 dlc:3 data:00 0A 08 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:40 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 %Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:40 0A 08 &Lj
+id:0X0X140 dlc:3 data:00 0A 08 &Lj
+id:0X0X140 dlc:3 data:00 0A 08 &Lj
+id:0X0X140 dlc:3 data:00 0A 08 &Lj
+id:0X0X140 dlc:3 data:00 0A 08 &Lj
+id:0X0X140 dlc:3 data:00 0A 08 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:40 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 &Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:40 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 04 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:40 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00 0A 00 'Lj
+id:0X0X140 dlc:3 data:00

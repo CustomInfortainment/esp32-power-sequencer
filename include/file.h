@@ -9,16 +9,17 @@
 #include <sys/stat.h>
 
 #include "global.h"
+#include "utility.h"
+#include "log.h"
+#include "profiling.h"
 
-#define SAVE_PATH "/Users/choemingyu/Infortainment/esp32-power-sequencer/host/sniff/data"
-
-#define MAX_DIR 1024 //최대 폴더 갯수
 #define MAX_IDS 2048 //최대 로그 파일 갯수
+#define SAVE_PATH "/Users/choemingyu/Infortainment/Sniffing_cli/data"
 
-int check_dir(char* name);
-FILE* check_file(int id);
+extern const char FILE_SAVE_PATH[256];
 
-FILE* get_file(int fd);
+void save_frame(CANFrame* frame);
+
 void all_exit_files();
 
 #endif

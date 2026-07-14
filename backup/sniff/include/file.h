@@ -10,15 +10,13 @@
 
 #include "global.h"
 
+#define MAX_IDS 2048 //최대 로그 파일 갯수
 #define SAVE_PATH "/Users/choemingyu/Infortainment/esp32-power-sequencer/host/sniff/data"
 
-#define MAX_DIR 1024 //최대 폴더 갯수
-#define MAX_IDS 2048 //최대 로그 파일 갯수
+extern const char FILE_SAVE_PATH[256];
 
-int check_dir(char* name);
-FILE* check_file(int id);
+int save_frame(CANFrame* frame);
 
-FILE* get_file(int fd);
 void all_exit_files();
 
 #endif

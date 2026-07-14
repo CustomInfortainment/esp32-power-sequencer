@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Iinclude -MMD -MP
+CFLAGS = -Iinclude -MMD -MP -g
 
 BUILD_DIR = build
 SRC_DIR = src
@@ -12,11 +12,11 @@ DEPS = $(OBJS:.o=.d)
 TARGET = $(BUILD_DIR)/main.out
 
 $(TARGET): $(OBJS)
-	$(CC) -o $@ $^
+	$(CC) -g -o $@ $^ -lncurses
 
 $(BUILD_DIR)/%.o: $(SRC_DIR)/%.c
 	@mkdir -p $(BUILD_DIR)
-	$(CC) $(CFLAGS) -c -o $@ $<
+	$(CC) $(CFLAGS) -c -o $@  $<
 
 -include $(DEPS)
 

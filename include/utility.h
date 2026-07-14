@@ -14,20 +14,25 @@
                     (c) - '0')
                     
 
-//현재 날짜 출력
-void get_current_time(char* buf);
+//현재 날짜 및 시간 출력
+void get_current_time(char* outbuf, size_t buflen);
+void get_current_date(char* outbuf, size_t buflen);
 
-//링버퍼 구현부
+//시리얼 포트 자동 탐색 (VID기반)
+int find_canable_port();
+
 void ringbuf_init(RingBuffer** buf);
 int ringbuf_isempty(RingBuffer* buf);
 int ringbuf_isfull(RingBuffer* buf);
 void ringbuf_register_data(RingBuffer* buf, CANFrame* frame);
 void ringbuf_get_data(RingBuffer* buf, CANFrame* frame);
+void ringbuf_clear(RingBuffer** buf);
 
-//연결리스트 구현부
-void list_init(ListNode** list);
+void list_init(ListNode** head, ListNode** tail);
+uint8_t list_isempty(ListNode** head, ListNode** tail);
+uint8_t list_searchdata(ListNode** head, int id);
 void list_addnode(ListNode** list, ListNode** tail, int id);
 void list_deletenode(ListNode** list, ListNode** tail, int id);
-void list_clear(ListNode** list);
+void list_clear(ListNode** head, ListNode** tail);
 
 #endif

@@ -6,11 +6,27 @@ struct termios old_settings;
 struct termios new_settings;
 
 //가장 최근에 보낸 커맨드 저장.
-CMDFrame* curframe = NULL;
+CMDFrame* curcmdframe = NULL;
+
+int is_prt = 0;
+int is_save = 0;
+
+CMDIdList filterIdList;
+CMDIdList maskIdList;
 
 void set_cli_mode(enum CLI_MODE mode)
 {
+	if(currentmode == mode) return;
 	currentmode = mode;
+
+	if(currentmode == CMD)
+	{
+		restore_keypress();
+	}
+	else if(currentmode == RUNNING)
+	{
+		set_keypress();
+	}
 }
 
 //논블로킹 입력 구현
@@ -38,16 +54,27 @@ void run_cli_mode()
 	switch(currentmode)
 	{
 		case RUNNING:
-			set_keypress();
 			handler_running_mode();
 			break;
 		case CMD:
-			restore_keypress();
-			handler_cmd_mode(&curframe);
+			handler_cmd_mode(&curcmdframe);
+			break;
+		case EXIT:
 			break;
 		default:
 			break;
 	}
+}
+
+//터미널 초기화
+void init_terminal()
+{
+	//리스트 초기화
+	list_init(&filterIdList.head, &filterIdList.tail);
+	list_init(&maskIdList.head, &maskIdList.tail);
+
+	//시그널 핸들러 등록
+	signal(SIGINT, handler_sigint);
 }
 
 void run_terminal()

@@ -7,6 +7,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <termios.h>
+#include <signal.h>
 
 #include "log.h"
 #include "global.h"
@@ -19,8 +20,18 @@
 enum CLI_MODE
 {
     CMD,
-    RUNNING
+    RUNNING,
+    EXIT
 };
+
+extern CMDFrame* curcmdframe;
+
+//필터 및 마스크 리스트
+extern CMDIdList filterIdList;
+extern CMDIdList maskIdList;
+
+extern int is_prt;
+extern int is_save;
 
 //CLI 모드 전환
 void set_cli_mode(enum CLI_MODE mode);
@@ -31,6 +42,7 @@ void set_keypress();
 void restore_keypress();
 
 //터미널 실행 함수
+void init_terminal();
 void run_terminal();
 
 #endif
