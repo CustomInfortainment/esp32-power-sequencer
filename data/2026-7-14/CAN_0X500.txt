@@ -1,0 +1,164 @@
+id:0X0X500 dlc:4 data:30 30 01 F4 30 
+id:0X0X500 dlc:4 data:30 30 01 F4 0;47 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 8 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;49 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;50 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;51 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;52 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;54 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;55 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;56 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 
+id:0X0X500 dlc:4 data:30 30 01 F4 0;58 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 0;59 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;0 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;1 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;2 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30  -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30  -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;6 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;7 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30  -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;9 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;10 -> 0X500
+
+id:0X0X500 dlc:4 data:ª
+id:0X0X500 dlc:4 data:30 30 01 F4 1;13 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;15 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 6 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 
+id:0X0X500 dlc:4 data:30 30 01 F4 1;18 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 
+id:0X0X500 dlc:4 data:ë 
+id:0X0X500 dlc:4 data:30 30 01 F4 1;21 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 3 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;24 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;25 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;26 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 0 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;31 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 2 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 3 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 4 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;36 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;37 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 8 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 > 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:ç 
+id:0X0X500 dlc:4 data:30 30 01 F4 1;44 -> 0X500
+
+id:0X0X500 dlc:4 data:Ã 
+id:0X0X500 dlc:4 data:30 30 01 F4 30 
+id:0X0X500 dlc:4 data:30 30 01 F4 1;47 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;48 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;50 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 1 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;52 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;53 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 1;57 -> 0X500
+
+id:0X0X500 dlc:4 data:ù
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;1 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30  0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30  -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;6 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;8 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30  -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;10 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;11 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;13 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;14 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;15 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;16 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 30 01 F4 0
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;18 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;19 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;20 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;21 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;22 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;23 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 2;24 -> 0X500
+
+id:0X0X500 dlc:4 data:30 30 01 F4 30 5

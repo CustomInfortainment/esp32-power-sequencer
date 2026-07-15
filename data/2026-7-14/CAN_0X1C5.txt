@@ -1,0 +1,7599 @@
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 9E 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C A9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C AF 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B5 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B8 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B9 2C B9 30 64 2C B9 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C B6 2C B6 30 64 2C B6 5
+
+id:0X0X1C5 dlc:6 data:2C B6 2C B6 30 64 2C B6 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B6 2C B6 30 64 2C B6 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B6 2C B6 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C B4 2C B4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B4 2C B4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B4 2C B4 30 64 2C B4 5
+
+id:0X0X1C5 dlc:6 data:2C B4 2C B4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B4 2C B4 30 64 2C B4 5
+
+id:0X0X1C5 dlc:6 data:2C B3 2C B3 30 64 2C B3 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C B3 2C B3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C B3 2C B3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C AE 2C AE 30 64 2C AE 5
+
+id:0X0X1C5 dlc:6 data:2C AE 2C AE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C A8 2C A8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C AD 2C AD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 79 2C 79 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 7D 2C 7D 30 64 2C 7D 5
+
+id:0X0X1C5 dlc:6 data:2C 74 2C 74 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 69 2C 69 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 69 2C 69 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 63 2C 63 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 62 2C 62 30 64 2C 62 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 61 2C 61 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 64 2C 64 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 1E 2C 1E 30 64 2C 1E 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 23 2C 23 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 18 2C 18 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 1F 2C 1F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 26 2C 26 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 20 2C 20 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 17 2C 17 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 20 2C 20 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 22 2C 22 30 64 2C 22 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 24 2C 24 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 28 2C 28 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 1C 2C 1C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 2A 2C 2A 30 64 2C 2A 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 28 2C 28 30 64 2C 28 5
+
+id:0X0X1C5 dlc:6 data:2C 2A 2C 2A 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 2B 2C 2B 30 64 2C 2B 5
+
+id:0X0X1C5 dlc:6 data:2C 2C 2C 2C 30 64 2C 2C 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 2E 2C 2E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 2F 2C 2F 30 64 2C 2F 5
+
+id:0X0X1C5 dlc:6 data:2C 25 2C 25 30 64 2C 25 5
+
+id:0X0X1C5 dlc:6 data:2C 22 2C 22 30 64 2C 22 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:Å 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 64 2C 16 5
+
+id:0X0X1C5 dlc:6 data:2C 18 2C 18 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 20 2C 20 30 63 2C 20 5
+
+id:0X0X1C5 dlc:6 data:2C 1D 2C 1D 30 64 2C 1D 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 61 2B X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 62 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 63 2B EE 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 62 2B EB 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 62 2B X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 5F 2B F4 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 5F 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 5E 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 5B 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 5D 2B F2 5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 57 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5A 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 56 2C 05 5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 55 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 59 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 57 2B FF 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 57 2C 04 5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:2C 19 2C 19 30 56 2C 19 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 17 2C 17 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 58 2C 11 5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 57 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 58 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 58 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 59 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 57 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 59 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 59 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 58 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5A 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5B 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5F 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 5A 2C 11 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 59 2C 10 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 58 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5A 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 58 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 58 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5E 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5C 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 5A 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5E 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 5B 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5D 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5B 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5B 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5B 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5C 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5B 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5C 2C 09 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5C 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 5C 2C 10 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 5D 2C 12 5
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5F 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5B 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5A 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5A 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 59 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5D 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 5A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 59  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 51 2C 12 
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 4E  0X1C5
+
+id:0X0X1C5 dlc:6 data:3 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 47 2C 12 
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 43 2C 12 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 40 2C 13 
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 42 2C 13 
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 44 2C 13 
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 44 2C 13 
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 46 2C 13 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 46 2C 14 
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 49 2C 14 
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 48  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 44 2C 14 
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 46  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 45 
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 47  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 45  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 47 
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 43  0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 45  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 42  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 47  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 44  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 43  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 45  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 3F 2C 16 
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 42  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 3E  0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 16 2C 16 30 3E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 41  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 15 2C 15 30 3E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 3C  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 3D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3C  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 3B 2C 10 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 3A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 3C  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3A  0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 3A 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 39 2C 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 39  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 3B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 3A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 39  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 39  0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 3A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 39  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 39 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 3C  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 38 2C 1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 3B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 3B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 3E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 3E 2C 07 
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3E  0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 43  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 40 2C 1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 42 2C 08 
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 43 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 43 2C 06 
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 40 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 42  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 40  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 44 2C 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 41 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 43 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 42 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 3F  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 41  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 44 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 42  0X1C5
+
+id:0X0X1C5 dlc:6 data:} 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 42 2C 05 
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 42  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 45 2C 06 
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 45  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 44  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 44  0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 43 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 43 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 45 2C 0C 
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 45 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 44  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 42 2C 1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 43  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 45 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 48 2C 08 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 46 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 45  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 45 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 43 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 47 2C 0E 
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 45 2C 0B 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 43 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 46  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 48  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 45 2C 0F 
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 4A 2C 0F 
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 46 2C 0F 
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 4A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 45  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 48  0X1C5
+
+id:0X0X1C5 dlc:6 data:Ù 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4A 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 46 2C 0B 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 46  0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 47  0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4B 2C 09 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 4B 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 46 2C 0F 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 46 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4C 2C 0D 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 47 2C 0B 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4D 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 49 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4B 2C 0B 
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 48  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 48 2C 1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 49 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4B 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 48  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4D 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 48  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 49 2C 0E 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 4B 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 4C 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 49 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4B 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4C 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4C 2C 09 
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4B 2C 0A 
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4D 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 4D 2C 07 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4F  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4D 2C 09 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 4C 2C 08 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4F  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 49  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4D 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4A 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4E 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4C 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4F  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4F 2C 0D 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 50  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4D 2C 0D 
+
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4F 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4A  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 50  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51  0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:0 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4B 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 51  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 4F  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 51  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4B  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 50  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 52  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 4E  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 53 2C 1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 50  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4B 2C 0D 
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 50 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 53  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4C  0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 2C 1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4D  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 4F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4F 2C 09 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 4E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 53 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 51 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 4F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 50 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 53 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 4F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 4F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 2C 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 51 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 52 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 54 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 50 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 54 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 56 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 56 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 57 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 54 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 56 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 59 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 53 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 53 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 59 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 52 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 52 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 51 2C 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 50 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 51 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 51 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 53 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 55 2C 05 5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 55 2C 07 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 54 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 58 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 53 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 57 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 53 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 57 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 53 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 53 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 51 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 56 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 54 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 52 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 56 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 53 2C X1C5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 56 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5B 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 54 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 56 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 56 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5A 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5C 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 54 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 55 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 55 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 55 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 56 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5A 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 59 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 58 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 57 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 58 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 57 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 56 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 57 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 57 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 57 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 57 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 58 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 59 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 56 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 57 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 55 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A 2C X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 56 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 5B 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 59 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 59 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 59 2C 06 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5B 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 59 2C 06 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5C 2C 05 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5C 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5B 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5B 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5E 2C 04 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5E 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5D 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 59 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5C 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5A 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5E 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5B 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 60 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5E 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5C 2C 06 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5C 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5F 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5E 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 58 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 60 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 59 2C 09 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 61 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5C 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5D 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C 06 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5D 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5D 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5C 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5E 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 61 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5E 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5D 2C 08 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5C 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5F 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 5C 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 5F 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 60 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 5F 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5F 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5F 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5E 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5B 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5D 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5D 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 59 2C 09 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5B 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 5D 2B FF 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 61 2B FA 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 5E 2B F8 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 62 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 62 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 60 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 62 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 61 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 2C 07 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:L 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5A > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5E 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 60 2C 02 5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5E 2C 05 5
+
+id:0X0X1C5 dlc:6 data:Ù 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 60 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5F 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5F 2C 05 5
+
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E 2C 07 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5B > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5F 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5E 2C 04 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5E 2C 04 5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:L 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5E 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5E 2C 04 5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 5F 2B FD 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 60 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5C 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5F 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 62 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 62 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 5E 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5D 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5E 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 5E 2B FD 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 61 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 2C 06 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 62 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 5F 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 5E 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 61 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 61 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 60 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5E > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 2C 06 5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 61 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F 2C 06 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 61 2C 06 5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 62 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 5F 2C 00 5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 62 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 62 2B FB 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 61 2C 01 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 62 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5F 2C 06 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5D > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 5E 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 60 2C 06 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:3 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 60 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5F 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:} 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5E 2C 05 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5D 2C 05 5
+
+id:0X0X1C5 dlc:6 data:} 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 60 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 63 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 63 2B 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 5F 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 61 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 63 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5E 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 5F 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 60 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 63 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 62 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 61 2C 00 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 5F > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 62 2B FD 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 2C 04 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 60 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 63 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 62 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 63 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 61 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 61 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 61 2C 05 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 60 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 61 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 62 2B FB 5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 63 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 63 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 60 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 62 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 2C 02 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 61 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 62 2B FF 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 62 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 2C 03 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 61 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 62 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 62 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 61 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 62 2C 00 5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 63 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 63 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 61 2C 00 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 60 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 61 2C 02 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 61 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 62 2B FC 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 62 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 61 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 61 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 62 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 61 2C 02 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 63 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 62 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 63 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:L 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64 2C 10 
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:Ù 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 
+
+id:0X0X1C5 dlc:6 data:2C 10 2C 10 30 64 2C 10 
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64  0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 14 2C 14 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 2C 11 5
+
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 13 2C 13 30 64 2C 13 5
+
+id:0X0X1C5 dlc:6 data:2C 11 2C 11 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 2C 12 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 12 2C 12 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 2C 05 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 2C 02 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 2C 07 5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 2C 06 5
+
+id:0X0X1C5 dlc:6 data:2C 06 2C 06 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 2C 0A 5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0E 2C 0E 30 64 2C 0E 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 2C 0C 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 2C 04 5
+
+id:0X0X1C5 dlc:6 data:Æ 
+id:0X0X1C5 dlc:6 data:2C 09 2C 09 30 64 2C 09 5
+
+id:0X0X1C5 dlc:6 data:2C 08 2C 08 30 64 2C 08 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 2C 0B 5
+
+id:0X0X1C5 dlc:6 data:2C 0B 2C 0B 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0A 2C 0A 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0D 2C 0D 30 64 2C 0D 5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 0F 2C 0F 30 64 2C 0F 5
+
+id:0X0X1C5 dlc:6 data:2C 0C 2C 0C 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:L 
+id:0X0X1C5 dlc:6 data:2C 07 2C 07 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:L 
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 04 2C 04 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 2C 03 5
+
+id:0X0X1C5 dlc:6 data:2C 03 2C 03 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 05 2C 05 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:4 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 02 2C 02 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B FE 2B FE 30 64 2B FE 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 00 2C 00 30 64 2C 00 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 2C 01 5
+
+id:0X0X1C5 dlc:6 data:2C 01 2C 01 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FF 2B FF 30 64 2B FF 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 2B FD 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FD 2B FD 30 64 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B E4 5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:H 
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:ñ 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:* 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 2B F6 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ó 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:á 
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:b 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data: 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FC 2B FC 30 64 2B FC 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 2B F9 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:Å
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 2B FB 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F7 2B F7 30 64 2B F7 5
+
+id:0X0X1C5 dlc:6 data:2B FB 2B FB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F9 2B F9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F6 2B F6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F3 2B F3 30 64 2B F3 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B F8 2B F8 30 64 2B F8 5
+
+id:0X0X1C5 dlc:6 data:2B FA 2B FA 30 64 2B FA 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F5 2B F5 30 64 2B F5 5
+
+id:0X0X1C5 dlc:6 data:2B F4 2B F4 30 64 2B F4 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B DE 2B DE 30 64 2B DE 5
+
+id:0X0X1C5 dlc:6 data:2B DE 2B DE 30 64 2B DE 5
+
+id:0X0X1C5 dlc:6 data:2B DE 2B DE 30 64 2B DE 5
+
+id:0X0X1C5 dlc:6 data:2B DE 2B DE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B DF 2B DF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B DB 2B DB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B D9 2B D9 30 64 2B D9 5
+
+id:0X0X1C5 dlc:6 data:2B D7 2B D7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B DC 2B DC 30 64 2B DC 5
+
+id:0X0X1C5 dlc:6 data:2B D5 2B D5 30 64 2B D5 5
+
+id:0X0X1C5 dlc:6 data:2B D3 2B D3 30 64 2B D3 5
+
+id:0X0X1C5 dlc:6 data:2B D4 2B D4 30 64 2B D4 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B DC 2B DC 30 64 2B DC 5
+
+id:0X0X1C5 dlc:6 data:2B DA 2B DA 30 64 2B DA 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B DB 2B DB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B DE 2B DE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B DF 2B DF 30 64 
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:J 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:ç 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:Ç 
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:… 
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:ü 
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 2B F0 5
+
+id:0X0X1C5 dlc:6 data:å 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 2B F1 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B F2 2B F2 30 64 2B F2 5
+
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B F0 2B F0 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B F1 2B F1 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B E4 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E0 2B E0 30 64 2B E0 5
+
+id:0X0X1C5 dlc:6 data:2B DD 2B DD 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:Á
+id:0X0X1C5 dlc:6 data:2B DC 2B DC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:Ñ
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B E4 5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 2B E7 5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E7 2B E7 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B E8 5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:* 
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:Q 
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B E4 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 2B E9 5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 2B EA 5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B E4 5
+
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2B E3 2B E3 30 64 2B E3 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B E4 2B E4 30 64 2B E4 5
+
+id:0X0X1C5 dlc:6 data:2B E2 2B E2 30 64 2B E2 5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:2B E6 2B E6 30 64 2B E6 5
+
+id:0X0X1C5 dlc:6 data:2B E8 2B E8 30 64 2B 
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B E5 2B E5 30 64 2B E5 5
+
+id:0X0X1C5 dlc:6 data:2B E9 2B E9 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EA 2B EA 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 2B EB 5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 2B EC 5
+
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:2B EC 2B EC 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:í 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ù 
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:é 
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B ED 2B ED 30 64 2B ED 5
+
+id:0X0X1C5 dlc:6 data:2B EE 2B EE 30 64 2B EE 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:õ 
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EF 2B EF 30 64 2B EF 5
+
+id:0X0X1C5 dlc:6 data:ë 
+id:0X0X1C5 dlc:6 data:2B EB 2B EB 30 64 > 0X1C5
+
+id:0X0X1C5 dlc:6 data:2B EB 2B EB

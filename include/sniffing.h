@@ -10,7 +10,7 @@
 #include "global.h"
 #include "profiling.h"
 
-#define SERIAL_PORT_PATH "/dev/cu.usbmodem2056369243431"
+#define SERIAL_PORT_PATH "/dev/ttyACM0"
 
 //링버퍼 구현부, sniffing.c에 선언되어 있음
 extern RingBuffer* canframeRingBuf;

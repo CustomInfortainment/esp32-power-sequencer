@@ -14,7 +14,7 @@
 #include "profiling.h"
 
 #define MAX_IDS 2048 //최대 로그 파일 갯수
-#define SAVE_PATH "/Users/choemingyu/Infortainment/Sniffing_cli/data"
+#define SAVE_PATH "/data/data/com.termux/files/home/Sniffing_cli/data"
 
 extern const char FILE_SAVE_PATH[256];
 
