@@ -21,5 +21,6 @@ void sniff_init();
 void sniff_data_recv();
 
 void sniff_stop();
+void create_format_frame(int id, int dlc, char* data, char* formatdata_buf);
 
 #endif

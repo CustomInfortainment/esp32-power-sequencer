@@ -18,8 +18,7 @@
 
 extern const char FILE_SAVE_PATH[256];
 
-void save_frame(CANFrame* frame);
-
+void save_frame(int id, int dlc, char* format_data);
 void all_exit_files();
 
 #endif

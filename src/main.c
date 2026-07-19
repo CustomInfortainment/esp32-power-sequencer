@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include "file.h"
 #include "sniffing.h"
-#include "utility.h"
 #include "terminal.h"
 #include "screen.h"
 
@@ -19,6 +16,7 @@ void tool_sniffing()
 void tool_screen()
 {
     init_screen();
+    run_screen();
 }
 
 void do_test()
@@ -40,7 +38,5 @@ int main(void)
     //do_test();
 
     tool_screen();
-
-
     return 0;
 }

@@ -1,7 +1,6 @@
 #include "sniffing.h"
 #include "log.h"
 #include "file.h"
-#include "parser.h"
 #include "utility.h"
 
 int id_count = 0;
@@ -62,6 +61,27 @@ void sniff_stop()
 {
     write(serial_fd, "C\r", 2);
     prt_log_console("CAN 프레임 수신을 중지합니다.", 1);
+}
+
+void create_format_frame(int id, int dlc, char* data, char* formatdata_buf)
+{
+    if(formatdata_buf == NULL) return;
+
+    int idx = 0;
+
+    for(int i = 0; i < dlc; i++)
+    {
+        formatdata_buf[idx] = data[i * 2];
+        formatdata_buf[idx + 1] = data[i * 2 + 1];
+        formatdata_buf[idx + 2] = ' ';
+        
+        if(i == dlc - 1)
+        {
+            formatdata_buf[idx + 2] = '\r';
+            break;
+        }
+        idx += 3;
+    }
 }
 
 void sniff_data_recv()
@@ -133,20 +153,17 @@ void sniff_data_recv()
             raw_frame[0] = '\0';
         }
     }
-
+    
+    //TODO : 로그 출력용 TUI로 나중에 값을 넘겨야 함.
     fps = metric_report_fps(&canProfiling);
-
-    if(fps != 0)
-    {
-        fprintf(stderr, "프레임 수신 시간까지 FPS : %lf\n", fps);
-        fprintf(stderr,"프레임 수신 까지 걸린 시간 : %lf\n", (1 / fps) * 1000000000ULL);
-    }
 
     while(ringbuf_isempty(canframeRingBuf) == 0)
     {
         CANFrame frame_buf;
-
         ringbuf_get_data(canframeRingBuf, &frame_buf);
-        save_frame(&frame_buf);
+
+        char format_buf[256];
+        create_format_frame(frame_buf.id, frame_buf.dlc, frame_buf.raw_data, format_buf);
+        save_frame(frame_buf.id, frame_buf.dlc, format_buf);
     }
 }

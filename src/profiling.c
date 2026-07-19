@@ -37,10 +37,11 @@ void metric_report_ns(uint64_t* elapsed_sum, uint64_t* elapsed_cnt)
 
     uint64_t elapsed_ns = now - last_report_ns;
 
+    //TODO : 출력의 주체를 정하고, TUI로 값을 넘겨야 함.
     if(elapsed_ns >= 1000000000ULL)
     {
         last_report_ns = now;
-        fprintf(stderr, "elapsed ns : %llu\n", *elapsed_sum / *elapsed_cnt);
+        fprintf(stderr, "elapsed ns : %lu\n", *elapsed_sum / *elapsed_cnt);
 
         *elapsed_sum = 0;
         *elapsed_cnt = 0;

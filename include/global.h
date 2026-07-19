@@ -10,10 +10,10 @@
 //명령어 모음
 #define CMD_RUN "run"
 #define CMD_EXIT "exit"
-#define CMD_FILTER "filter"
-#define CMD_UNFILTER "unfilter"
 #define CMD_MASK "mask"
 #define CMD_UNMASK "unmask"
+#define CMD_FILTER "filter"
+#define CMD_UNFILTER "unfilter"
 #define CMD_SETPATH "setpath"
 #define CMD_SETMODULE "setmodule"
 
@@ -44,15 +44,7 @@ typedef struct CANFrame
     char raw_data[256];
 } CANFrame;
 
-//링버퍼 구조체
-typedef struct RingBuffer
-{
-    CANFrame* buf[RING_BUF_SIZE];
-    unsigned int head;
-    unsigned int tail;
-} RingBuffer;
-
-//CLI툴 명령 구조체
+//TUI 명령 구조체
 typedef struct CMDFrame
 {
     char **args;
@@ -61,7 +53,14 @@ typedef struct CMDFrame
     char opts[128];
 } CMDFrame;
 
-//리스트 노드 구조체, Mask, Filter 둘다 같은 거 사용
+//자료구조 구현부-------------------
+typedef struct RingBuffer
+{
+    CANFrame* buf[RING_BUF_SIZE];
+    unsigned int head;
+    unsigned int tail;
+} RingBuffer;
+
 typedef struct ListNode
 {
     int id;
@@ -75,6 +74,7 @@ typedef struct CMDIdList
     ListNode* tail;
 } CMDIdList;
 
+//코드 성능 실측 관련 구현부------------
 typedef struct ProfilingFrame
 {
     uint64_t last_report;

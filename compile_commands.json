@@ -1,0 +1,162 @@
+[
+  {
+    "file": "src/file.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/file.o",
+      "src/file.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/file.o"
+  },
+  {
+    "file": "src/handler.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/handler.o",
+      "src/handler.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/handler.o"
+  },
+  {
+    "file": "src/log.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/log.o",
+      "src/log.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/log.o"
+  },
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/main.o"
+  },
+  {
+    "file": "src/parser.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/parser.o",
+      "src/parser.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/parser.o"
+  },
+  {
+    "file": "src/profiling.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/profiling.o",
+      "src/profiling.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/profiling.o"
+  },
+  {
+    "file": "src/screen.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/screen.o",
+      "src/screen.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/screen.o"
+  },
+  {
+    "file": "src/sniffing.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/sniffing.o",
+      "src/sniffing.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/sniffing.o"
+  },
+  {
+    "file": "src/terminal.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/terminal.o",
+      "src/terminal.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/terminal.o"
+  },
+  {
+    "file": "src/utility.c",
+    "arguments": [
+      "/data/data/com.termux/files/usr/bin/gcc",
+      "-Iinclude",
+      "-MMD",
+      "-MP",
+      "-g",
+      "-c",
+      "-o",
+      "build/utility.o",
+      "src/utility.c"
+    ],
+    "directory": "/data/data/com.termux/files/home/Sniffing_cli",
+    "output": "build/utility.o"
+  }
+]

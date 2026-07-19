@@ -90,39 +90,15 @@ static FILE* get_file(int id)
     return NULL;
 }
 
-static void create_format_frame(int dlc, char* data, char* formatdata_buf)
-{
-    if(formatdata_buf == NULL) return;
-
-    int idx = 0;
-
-    for(int i = 0; i < dlc; i++)
-    {
-        formatdata_buf[idx] = data[i * 2];
-        formatdata_buf[idx + 1] = data[i * 2 + 1];
-        formatdata_buf[idx + 2] = ' ';
-
-        idx += 3;
-    }
-}
-
-void save_frame(CANFrame* frame)
+void save_frame(int id, int dlc, char* format_data)
 {
     uint64_t now = now_ns();
-
-    int id = frame->id;
-    int dlc = frame->dlc;
-    char* rawdata = frame->raw_data;
-
-    char formatdata_buf[256];
-
-    create_format_frame(dlc, rawdata, formatdata_buf);
-
+    char* formatdata = format_data;
     FILE* entry = get_file(id);
 
     if(entry == NULL) return;
 
-    fprintf(entry, "id:0X%#03X dlc:%d data:%s\n", id, dlc, formatdata_buf);
+    fprintf(entry, "id:0X%#03X dlc:%d data:%s\n", id, dlc, formatdata);
 
     uint64_t end = now_ns();
     uint64_t elapsed = end - now;
