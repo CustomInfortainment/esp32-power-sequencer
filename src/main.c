@@ -1,6 +1,7 @@
 #include "sniffing.h"
 #include "terminal.h"
 #include "screen.h"
+#include <ncurses.h>
 
 void tool_terminal()
 {
@@ -22,11 +23,16 @@ void tool_screen()
 void do_test()
 {
     sniff_init();
+    tool_screen();
 
     while(1)
     {
         sniff_data_recv();
+        int key = getch();
+
+        if(key == 'q') break;
     }
+    endwin();
 }
 
 int main(void)
@@ -35,8 +41,7 @@ int main(void)
     //tool_sniffing();
     //tool_terminal();
 
-    //do_test();
+    do_test();
 
-    tool_screen();
     return 0;
 }

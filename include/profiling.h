@@ -6,6 +6,7 @@
 #include <time.h>
 
 #include "global.h"
+#include "screen.h"
 
 static inline uint64_t now_ns(void)
 {
@@ -13,7 +14,7 @@ static inline uint64_t now_ns(void)
     clock_gettime(CLOCK_MONOTONIC, &ts);
     return (uint64_t)ts.tv_sec * 1000000000ULL + (uint64_t) ts.tv_nsec;
 }
-double metric_report_fps(ProfilingFrame* frame);
+void metric_report_fps(ProfilingFrame* frame);
 void metric_report_ns(uint64_t* elapsed_sum, uint64_t* elapsed_cnt);
 
 #endif

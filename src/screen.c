@@ -1,6 +1,4 @@
 #include "screen.h"
-#include "global.h"
-#include <ncurses.h>
 
 // 현재 터미널 창 크기
 static Vector2 terminal_size;
@@ -14,9 +12,11 @@ static WINDOW_INFO INPUT_WINDOW;
 static WINDOW_INFO CAN_LOG_TITLE;
 static WINDOW_INFO METRIC_TITLE;
 
-// 정보 출력
-static WINDOW_INFO CAN_LOG;
-static WINDOW_INFO METRIC_LOG;
+//정보 출력
+static WINDOW_INFO CAN_LOG_INFO;
+static WINDOW_INFO METRIC_LOG_INFO;
+
+static int final_yaxis_idx = 0;
 
 void get_terminal_env(Vector2 *v2) 
 {
@@ -63,24 +63,56 @@ void display_title()
     box(CAN_LOG_TITLE.window, '|', '*');
     box(METRIC_TITLE.window, '|', '*');
 
+    mvwprintw(CAN_LOG_TITLE.window, 1, 1, "CAN_FRAME_LOG");
+    mvwprintw(METRIC_TITLE.window, 1, 1, "METRIC_INFO_LOG");
+
     wrefresh(CAN_LOG_TITLE.window);
     wrefresh(METRIC_TITLE.window);
 }
 
-void display_can_frame(CANFrame* frame)
+void display_metric(PRT_LOG_STRUCTURE* log_structure)
 {
+    char title[256];
+    int yaxis[256]; 
+
+    set_window(&METRIC_LOG_INFO, METRIC_WINDOW.size.y * 0.9f, METRIC_WINDOW.size.x, 0, 0);
+    METRIC_LOG_INFO.window = derwin(METRIC_WINDOW.window, METRIC_LOG_INFO.size.y, METRIC_LOG_INFO.size.x, 0, 0);
+
+    if(log_structure == NULL) return;
+
+    switch(log_structure->structure_type)
+    {
+        case CAN_FRAME_FPS:
+            strcpy(title, "CAN_FRAME_FPS");
+            break;
+        case SAVE_ELAPSED_TIME:
+            strcpy(title, "SAVE_ELAPSED_TIME");
+            break;
+    }
+
+    for(int i = 1; i < 256; i++)
+    {
+        yaxis[i] = i + 2;
+    }
+
+    if(log_structure->yaxis_idx == 0)
+    {
+        final_yaxis_idx++;
+        log_structure->yaxis_idx = final_yaxis_idx;
+    }
     
-}
+    wclrtoeol(METRIC_LOG_INFO.window);
 
-void display_metric(char *frame, char *elapsed_time)
-{
-
+    mvwprintw(METRIC_LOG_INFO.window, yaxis[log_structure->yaxis_idx], 1, "%d. %s : %lf", log_structure->yaxis_idx, title, log_structure->log_value);
+    wrefresh(METRIC_LOG_INFO.window);
 }
 
 void init_screen() 
 {
     setlocale(LC_ALL, "");
     initscr();
+
+    nodelay(stdscr, TRUE);
 
     get_terminal_env(&terminal_size);
     refresh();
@@ -89,6 +121,5 @@ void init_screen()
 void run_screen()
 {
     display_tui();
-    getch();
-    endwin();
+    display_title();
 }

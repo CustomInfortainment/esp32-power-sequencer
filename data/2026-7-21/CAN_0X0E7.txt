@@ -1,0 +1,117 @@
+id:0X0XE7 dlc:1 data: 
+id:0X0XE7 dlc:1 data:
+id:0X0XE7 dlc:1 data:Z
+id:0X0XE7 dlc:1 data:aB6 E4 FD 02 0A 80 03
+id:0X0XE7 dlc:1 data:Ÿ9D CD
+id:0X0XE7 dlc:1 data:9C 21 D2 66 8C 9F03
+id:0X0XE7 dlc:1 data:
+BD 8A DC 4B 359F03
+id:0X0XE7 dlc:1 data:¬
+id:0X0XE7 dlc:1 data:o87 92 1Fo 
+id:0X0XE7 dlc:1 data:Ú87 92 1Fo 
+id:0X0XE7 dlc:1 data:úC6 CD BF 07
+id:0X0XE7 dlc:1 data:+5E 47 9A 2C 1D A5 52
+id:0X0XE7 dlc:1 data:&AB F8 09 12 B6 9A C6
+id:0X0XE7 dlc:1 data:EE
+id:0X0XE7 dlc:1 data:8
+id:0X0XE7 dlc:1 data:^
+id:0X0XE7 dlc:1 data:Â
+id:0X0XE7 dlc:1 data:5
+id:0X0XE7 dlc:1 data:òF4 83 87 
+id:0X0XE7 dlc:1 data:‡F4 83 87 
+id:0X0XE7 dlc:1 data:ŸF4 83 87 
+id:0X0XE7 dlc:1 data:âA7 44 01 F9 B4
+id:0X0XE7 dlc:1 data:<44 11 62 50 EF 63 93
+id:0X0XE7 dlc:1 data:İFE CC E5! 
+id:0X0XE7 dlc:1 data:w
+id:0X0XE7 dlc:1 data:CD 31 0E D5 4F 4293
+id:0X0XE7 dlc:1 data:2131 0E D5 4F 4293
+id:0X0XE7 dlc:1 data:êF6 22 4A 90 4F4293
+id:0X0XE7 dlc:1 data:ÇF3 66 01 81 B2 41 23
+id:0X0XE7 dlc:1 data:ú4C 70 60 B8 4B B9 8C
+id:0X0XE7 dlc:1 data:ı41 0D 2B EF 27 C88C
+id:0X0XE7 dlc:1 data:»41 0D 2B EF 27 C88C
+id:0X0XE7 dlc:1 data:ï0F 56 52 C3 C2C88C
+id:0X0XE7 dlc:1 data:o59 1E 2A 42 6EC88C
+id:0X0XE7 dlc:1 data:b
+id:0X0XE7 dlc:1 data:Ç
+id:0X0XE7 dlc:1 data:Ö56 5A CB 27
+id:0X0XE7 dlc:1 data:86 19 CB8B
+id:0X0XE7 dlc:1 data:åE0 FD 36 7C B1 B9
+id:0X0XE7 dlc:1 data:j4D A3 9A 1B E9
+id:0X0XE7 dlc:1 data:54D A3 9A 1B E9
+id:0X0XE7 dlc:1 data:‰60 F4 56 3E
+id:0X0XE7 dlc:1 data:ĞAA C3 B0 B6
+id:0X0XE7 dlc:1 data:m26 05 9BBF
+id:0X0XE7 dlc:1 data:œ26 05 9BBF
+id:0X0XE7 dlc:1 data:ØED D1 21 C6 3D
+id:0X0XE7 dlc:1 data:X
+id:0X0XE7 dlc:1 data:…
+id:0X0XE7 dlc:1 data:
+id:0X0XE7 dlc:1 data:YE7
+id:0X0XE7 dlc:1 data:ÂE9 A4
+id:0X0XE7 dlc:1 data:
+id:0X0XE7 dlc:1 data:À99 2D 10/ 
+id:0X0XE7 dlc:1 data:xE3 A8 6B 83 56 8B 25
+id:0X0XE7 dlc:1 data:2A8 83 B6 06A8 83 B6
+id:0X0XE7 dlc:1 data:Y
+id:0X0XE7 dlc:1 data:ü
+id:0X0XE7 dlc:1 data:C
+id:0X0XE7 dlc:1 data:ï4F BF DD 84 8C 8F 19
+id:0X0XE7 dlc:1 data:RF0 E9 7E 59
+id:0X0XE7 dlc:1 data:é
+id:0X0XE7 dlc:1 data:_BE FA 58e
+id:0X0XE7 dlc:1 data:>
+id:0X0XE7 dlc:1 data:Å
+id:0X0XE7 dlc:1 data:°AC C2 46 47AC C2
+id:0X0XE7 dlc:1 data:T
+id:0X0XE7 dlc:1 data:îA4 BE 9C FA 02
+id:0X0XE7 dlc:1 data:N10 41 41 64 2D F841
+id:0X0XE7 dlc:1 data:š
+id:0X0XE7 dlc:1 data:Ü01 73
+id:0X0XE7 dlc:1 data:82 85 CB 6F 4D 88
+id:0X0XE7 dlc:1 data:«
+id:0X0XE7 dlc:1 data:V
+id:0X0XE7 dlc:1 data:‡
+id:0X0XE7 dlc:1 data:&D4
+id:0X0XE7 dlc:1 data:[FE 05 21 B7 3E
+id:0X0XE7 dlc:1 data:“56 67 5B 02 D5 13 EB
+id:0X0XE7 dlc:1 data:ßB4
+id:0X0XE7 dlc:1 data:áD5
+id:0X0XE7 dlc:1 data:×4B
+id:0X0XE7 dlc:1 data:Ò
+id:0X0XE7 dlc:1 data:×EA 42 9E F1 67 6E
+id:0X0XE7 dlc:1 data:™A3 35 EC 18 0C B5 77
+id:0X0XE7 dlc:1 data:wA3 35 EC 18 0C B5 77
+id:0X0XE7 dlc:1 data:wC5 50 EA ED 92B5 77
+id:0X0XE7 dlc:1 data:
+
+id:0X0XE7 dlc:1 data: 23
+id:0X0XE7 dlc:1 data:ĞE8 D8 A7 23E8 D8
+id:0X0XE7 dlc:1 data:~
+id:0X0XE7 dlc:1 data:n30 E9 DB 38 35 49 68
+id:0X0XE7 dlc:1 data:ı50E9 DB 38 35 49 68
+id:0X0XE7 dlc:1 data:€50E9 DB 38 35 49 68
+id:0X0XE7 dlc:1 data:®
+id:0X0XE7 dlc:1 data:®D3
+id:0X0XE7 dlc:1 data:ƒB1
+id:0X0XE7 dlc:1 data:
+id:0X0XE7 dlc:1 data: 98 3B 05 C1 B5 E8 3E
+id:0X0XE7 dlc:1 data:-38 86 AD 7F 90 753E
+id:0X0XE7 dlc:1 data:j38 86 AD 7F 90 753E
+id:0X0XE7 dlc:1 data:á2D 4E AD41 2D 4E
+id:0X0XE7 dlc:1 data:01 62 A7 D201 62
+id:0X0XE7 dlc:1 data:²01 62 A7 D201 62
+id:0X0XE7 dlc:1 data:968 E5 CA EF DD AB
+id:0X0XE7 dlc:1 data:ÚAB FB A2 83 B5 9D
+id:0X0XE7 dlc:1 data:†
+id:0X0XE7 dlc:1 data:10 0F 0888 10 0F 08
+id:0X0XE7 dlc:1 data:j18 54
+id:0X0XE7 dlc:1 data:·18 54
+id:0X0XE7 dlc:1 data:—7E F7 AA 53 CD5408
+id:0X0XE7 dlc:1 data:03 A4 3853 CD5408
+id:0X0XE7 dlc:1 data:ñ60 46 F0 6B 01 91 27
+id:0X0XE7 dlc:1 data:g9E 8C 046B 01 91 27
+id:0X0XE7 dlc:1 data:r15 19
+id:0X0XE7 dlc:1 data:ïD619
+id:0X0XE7 dlc:1 da

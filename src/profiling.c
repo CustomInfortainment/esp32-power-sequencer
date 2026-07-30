@@ -1,8 +1,12 @@
 #include "profiling.h"
+#include "screen.h"
 
 static uint64_t last_report_ns;
 
-double metric_report_fps(ProfilingFrame* frame)
+static PRT_LOG_STRUCTURE can_frame_fps;
+static PRT_LOG_STRUCTURE save_elapsed_time;
+
+void metric_report_fps(ProfilingFrame* frame)
 {
     uint64_t now = now_ns();
     double fps = 0;
@@ -10,7 +14,7 @@ double metric_report_fps(ProfilingFrame* frame)
     if(frame->last_report == 0)
     {
         frame->last_report = now;
-        return 0;
+        return;
     }
 
     uint64_t elapsed_ns = now - frame->last_report;
@@ -22,13 +26,17 @@ double metric_report_fps(ProfilingFrame* frame)
         frame->g_frame_cnt = 0;
         frame->last_report = now;
     }
+    can_frame_fps.structure_type = CAN_FRAME_FPS;
+    can_frame_fps.log_value = fps;
 
-    return fps;
+    if(fps != 0)
+        display_metric(&can_frame_fps);
 }
 
 void metric_report_ns(uint64_t* elapsed_sum, uint64_t* elapsed_cnt)
 {
     uint64_t now = now_ns();
+    
     if(last_report_ns == 0)
     {
         last_report_ns = now;
@@ -37,11 +45,13 @@ void metric_report_ns(uint64_t* elapsed_sum, uint64_t* elapsed_cnt)
 
     uint64_t elapsed_ns = now - last_report_ns;
 
-    //TODO : 출력의 주체를 정하고, TUI로 값을 넘겨야 함.
     if(elapsed_ns >= 1000000000ULL)
     {
         last_report_ns = now;
-        fprintf(stderr, "elapsed ns : %lu\n", *elapsed_sum / *elapsed_cnt);
+        save_elapsed_time.structure_type = SAVE_ELAPSED_TIME;
+        save_elapsed_time.log_value = (double)*elapsed_sum / *elapsed_cnt;
+
+        display_metric(&save_elapsed_time); 
 
         *elapsed_sum = 0;
         *elapsed_cnt = 0;

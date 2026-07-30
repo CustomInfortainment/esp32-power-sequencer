@@ -90,16 +90,12 @@ void sniff_data_recv()
     char raw_frame[256];
 
     int raw_frame_size = 0;
-
-    double fps;
-
     CANFrame frame;
 
-    // 256byte 만큼 읽고
     int read_bytes = read(serial_fd, buf, sizeof(buf));
 
     if (read_bytes <= 0) {
-        prt_log_console("데이터 로드 대기 중...", 1);
+        //prt_log_console("데이터 로드 대기 중...", 1);
         usleep(200000);
         return;
     }
@@ -146,16 +142,12 @@ void sniff_data_recv()
 
             canProfiling.g_frame_cnt++;
 
-            //파싱한 데이터 출력
-            prt_parsing_to_console(frame.id, frame.raw_data);
-
             raw_frame_size = 0;
             raw_frame[0] = '\0';
         }
     }
     
-    //TODO : 로그 출력용 TUI로 나중에 값을 넘겨야 함.
-    fps = metric_report_fps(&canProfiling);
+    metric_report_fps(&canProfiling);
 
     while(ringbuf_isempty(canframeRingBuf) == 0)
     {
